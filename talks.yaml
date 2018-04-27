@@ -1,0 +1,39 @@
+talks:
+
+  - name: Bolt DB
+    date: 2017-08-15
+    slides: http://static.velvetcache.org/talks/2017/08/[Omaha%20Go]%20boltdb.pdf
+    speakers:
+      - name: John Hobbs
+        website: https://velvetcache.org
+        twitter: jmhobbs
+
+  - name: Serverless Go
+    date: 2018-01-30
+    speakers:
+      - name: Ben Stevinson
+        website: http://benstevinson.com/
+        twitter: benstevinson
+
+  - name: Buffalo
+    date: 2018-01-30
+    slides: http://static.velvetcache.org/talks/2018/01/[Omaha%20Go]%20Buffalo.html
+    speakers:
+      - name: John Hobbs
+        website: https://velvetcache.org
+        twitter: jmhobbs
+
+  - name: Using Go with Google Cloud Functions To Manipulate Weather Radar Data
+    date: 2018-03-27
+    speakers:
+      - name: Bryan Rockwood
+        website:
+        twitter: BRock97
+
+  - name: Go, JavaScript, and You
+    date: 2018-03-27
+    slides: http://static.velvetcache.org/talks/2018/03/[NEJS]%20Go,%20JavaScript%20and%20You/index.html
+    speakers:
+      - name: John Hobbs
+        website: https://velvetcache.org
+        twitter: jmhobbs
